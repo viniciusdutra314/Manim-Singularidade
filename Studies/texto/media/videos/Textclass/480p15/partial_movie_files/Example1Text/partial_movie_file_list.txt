@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/3342507227_3966177242_223132457.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_1492637582_3054964568.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_3903720091_2331123405.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_2419551319_307651068.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_3745970284_3568792287.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_2419551319_3583433512.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_1745885701_3536275112.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_2419551319_2659893920.mp4'
+file 'file:D:/Github/Manim-Singularidade/Studies/texto/media/videos/Textclass/480p15/partial_movie_files/Example1Text/2743647601_757046622_2981246243.mp4'
